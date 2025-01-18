@@ -1,5 +1,5 @@
 defaultProject: coral-mission-443817-c0
-defaultLocation: US
-defaultDataset: dataform
+defaultLocation: us-central1
+defaultDataset: dataform_github
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.0
